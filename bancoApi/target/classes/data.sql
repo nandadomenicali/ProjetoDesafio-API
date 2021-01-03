@@ -1,0 +1,1 @@
+INSERT INTO Cliente (nome, email, cpf, data_Nasc) VALUES('Fernanda', 'fernanda@teste.com', 12334334545, PARSEDATETIME('21/07/2000','dd/MM/yyyy'));
